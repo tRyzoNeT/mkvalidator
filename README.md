@@ -1,5 +1,6 @@
-# mkvalidator v0.6.0
-mkvalidator linux scan release needed for some ftpd (drftpd)
+# mkvalidator_v0.6.0.BUiLD-RaW
+
+RELEASE is ALREADY BUiLDED on DEBiAN12 for you, only to extract and USE... XD
 
 SOURCE for build, looks on --> https://github.com/Matroska-Org/foundation-source
 
