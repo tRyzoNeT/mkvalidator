@@ -6,7 +6,7 @@ SOURCE for build, looks on --> https://github.com/Matroska-Org/foundation-source
 
 # SETUP TO USER
 - unzip the *.zip file to /home/YOURUSERS/
-
+- CHMOD 755 mkvalidator
 + SET mkvalidator (DEFiNiTELY METHOD) **<- APPROUVE**
 - nano ~/.profile
 + ADD of the BOTTOM **($home = /home/YOURUSERS/)**
