@@ -1,6 +1,8 @@
 # mkvalidator_v0.6.0.BUiLD-RaW
 
-RELEASE is ALREADY BUiLDED on DEBiAN12 for you, only to extract and USE... XD
+LiNK-RLS --> https://tsrc.tryzonet.xyz/download.php?fichier=mkvalidator060build-raw.zip
+
+The RELEASE is ALREADY BUiLDED on DEBiAN12 for you, only to extract and USE... XD
 
 SOURCE for build, looks on --> https://github.com/Matroska-Org/foundation-source
 
