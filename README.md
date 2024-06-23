@@ -1,2 +1,2 @@
 # mkvalidator
-mkvalidator linux scan release
+mkvalidator linux scan release needed for some ftpd (drftpd)
