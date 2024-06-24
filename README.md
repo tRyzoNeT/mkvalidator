@@ -2,6 +2,8 @@
 
 LiNK-RLS --> https://tsrc.tryzonet.xyz/download.php?fichier=mkvalidator060build-raw.zip
 
+**TESTED AND USE ON DEBiAN 12 AND ROCKY 9**
+
 The RELEASE is ALREADY BUiLDED on DEBiAN12 for you, only to extract and USE... XD
 
 SOURCE for build, looks on --> https://github.com/Matroska-Org/foundation-source
